@@ -1,0 +1,12 @@
+
+Running 2 tests using 1 worker
+
+  ✓  1 e2e/workflow.spec.ts:2:1 › import, inspect, record cancellation and review a later debit (1.1s)
+  ✓  2 e2e/workflow.spec.ts:60:1 › mobile layout avoids page-wide overflow (205ms)
+
+  2 passed (2.0s)
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+(node:180) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:180) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)

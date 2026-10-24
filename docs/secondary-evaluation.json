@@ -1,0 +1,9 @@
+{
+  "scope": "2 synthetic service groups; tiny development-time check, not independent held-out evidence",
+  "true_positive": 1,
+  "false_positive": 0,
+  "false_negative": 0,
+  "true_negative": 1,
+  "precision": 1.0,
+  "recall": 1.0
+}
