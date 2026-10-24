@@ -1,0 +1,6 @@
+Kind: cancellation
+Service: StreamBee
+Effective date: 2026-09-30
+Mandate reference: MBEE1
+Billing channel: UPI
+Fictional confirmation: service ends on 30 September 2026. Mandate revocation is not confirmed.
