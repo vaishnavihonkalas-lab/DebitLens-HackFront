@@ -1,0 +1,2 @@
+transaction_id,date,description,amount,direction,account_label,currency,payment_rail,mandate_reference,billing_channel,subscription_reference
+s6,2026-10-05,SBEE MEDIA,399,debit,Everyday bank,INR,UPI,MBEE1,UPI,basic

@@ -1,0 +1,7 @@
+transaction_id,date,description,amount,direction,account_label,currency,payment_rail,mandate_reference,billing_channel,subscription_reference
+h0,2026-01-31,STREAMBEE,199,debit,Heldout,INR,CARD,,DIRECT,other
+h1,2026-02-28,STREAMBEE,199,debit,Heldout,INR,CARD,,DIRECT,other
+h2,2026-03-31,STREAMBEE,199,debit,Heldout,INR,CARD,,DIRECT,other
+z0,2026-01-03,WEEKEND CAFE,175,debit,Heldout,INR,UPI,,UNKNOWN,
+z1,2026-02-03,WEEKEND CAFE,175,debit,Heldout,INR,UPI,,UNKNOWN,
+z2,2026-03-03,WEEKEND CAFE,175,debit,Heldout,INR,UPI,,UNKNOWN,

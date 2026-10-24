@@ -1,0 +1,29 @@
+transaction_id,date,description,amount,direction,account_label,currency,payment_rail,mandate_reference,billing_channel,subscription_reference
+s0,2026-04-05,STREAMBEE,299,debit,Everyday bank,INR,UPI,MBEE1,UPI,basic
+c0,2026-04-12,CLOUDNEST,149,debit,Credit card,INR,CARD,,GOOGLE_PLAY,storage
+g0,2026-04-17,LOCAL GROCER,510,debit,Everyday bank,INR,UPI,,UNKNOWN,
+p0,2026-04-21,CITY POWER,900,debit,Everyday bank,INR,NACH,,DIRECT,meter1
+s1,2026-05-05,SBEE MEDIA,299,debit,Everyday bank,INR,UPI,MBEE1,UPI,basic
+c1,2026-05-12,CLOUDNEST,149,debit,Credit card,INR,CARD,,GOOGLE_PLAY,storage
+g1,2026-05-17,LOCAL GROCER,535,debit,Everyday bank,INR,UPI,,UNKNOWN,
+p1,2026-05-21,CITY POWER,930,debit,Everyday bank,INR,NACH,,DIRECT,meter1
+s2,2026-06-05,STREAMBEE,299,debit,Everyday bank,INR,UPI,MBEE1,UPI,basic
+c2,2026-06-12,CLOUDNEST,149,debit,Credit card,INR,CARD,,GOOGLE_PLAY,storage
+g2,2026-06-17,LOCAL GROCER,560,debit,Everyday bank,INR,UPI,,UNKNOWN,
+p2,2026-06-21,CITY POWER,960,debit,Everyday bank,INR,NACH,,DIRECT,meter1
+s3,2026-07-05,SBEE MEDIA,299,debit,Everyday bank,INR,UPI,MBEE1,UPI,basic
+c3,2026-07-12,CLOUDNEST,149,debit,Credit card,INR,CARD,,GOOGLE_PLAY,storage
+g3,2026-07-17,LOCAL GROCER,585,debit,Everyday bank,INR,UPI,,UNKNOWN,
+p3,2026-07-21,CITY POWER,990,debit,Everyday bank,INR,NACH,,DIRECT,meter1
+s4,2026-08-05,STREAMBEE,299,debit,Everyday bank,INR,UPI,MBEE1,UPI,basic
+c4,2026-08-12,CLOUDNEST,149,debit,Credit card,INR,CARD,,GOOGLE_PLAY,storage
+g4,2026-08-17,LOCAL GROCER,610,debit,Everyday bank,INR,UPI,,UNKNOWN,
+p4,2026-08-21,CITY POWER,1020,debit,Everyday bank,INR,NACH,,DIRECT,meter1
+s5,2026-09-05,SBEE MEDIA,399,debit,Everyday bank,INR,UPI,MBEE1,UPI,basic
+c5,2026-09-12,CLOUDNEST,149,debit,Credit card,INR,CARD,,GOOGLE_PLAY,storage
+g5,2026-09-17,LOCAL GROCER,635,debit,Everyday bank,INR,UPI,,UNKNOWN,
+p5,2026-09-21,CITY POWER,1050,debit,Everyday bank,INR,NACH,,DIRECT,meter1
+q1,2026-04-08,LEARNLOOP,899,debit,Credit card,INR,CARD,,DIRECT,course
+q2,2026-07-08,LEARNLOOP,899,debit,Credit card,INR,CARD,,DIRECT,course
+x1,2026-08-01,RAZORPAY ONLINE,99,debit,Everyday bank,INR,UPI,,UNKNOWN,
+x2,2026-09-01,RAZORPAY ONLINE,159,debit,Everyday bank,INR,UPI,,UNKNOWN,
